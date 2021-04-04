@@ -1,0 +1,60 @@
+flintweller
+Flint Weller
+Human
+Earth (usually)
+==================================================================
+https://keybase.io/flintweller
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://flintweller.com
+  * I am flintweller (https://keybase.io/flintweller) on keybase.
+  * I have a public key ASCLjlICA68I3UBeevsQNXuTnAbc7JNZf6aCOjDTQdOaOAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202dccfda151eba7394859a1edf1b9c6579bb9814c3f33cd0887f0166216e575a90a",
+      "host": "keybase.io",
+      "kid": "01208b8e520203af08dd405e7afb10357b939c06dcec93597fa6823a30d341d39a380a",
+      "uid": "b7385854617381a1b2e8e9d652f19c19",
+      "username": "flintweller"
+    },
+    "merkle_root": {
+      "ctime": 1617561568,
+      "hash": "4d380dc3f66a0d014c637b48a63df533e2cbb8e9004ccc3ca919e59edc61a77d6c7eba74c3e2aaa8929d8eb077523fe2887d8676f36c486110d21b20bbefa700",
+      "hash_meta": "5f586fc36342ca57c7abb31ce8579ddbc814579103d9fa78ea8e80599a965c36",
+      "seqno": 19545336
+    },
+    "service": {
+      "entropy": "zBRQ/mp+2A9gj5mxpT7BeH0E",
+      "hostname": "flintweller.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1617561652,
+  "expire_in": 504576000,
+  "prev": "ded16ac81a715d3b1fbc5fa7171eb2800c564b3ea6b7da1564d9ac7dd1d9b37b",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi45SAgOvCN1AXnr7EDV7k5wG3OyTWX+mgjow00HTmjgKp3BheWxvYWTESpcCFsQg3tFqyBpxXTsfvF+nFx6ygAxWSz6mt9oVZNmsfdHZs3vEIP7Qslz97fSbC+H+GFEeqAWprqk9D/aHjHkAiYcNKuniAgHCo3NpZ8RA2a6Unhb684gJ9wvrO5KNmnfTC+foSTHCER1g/0sOrV2qGycPWl2zRzMEPqFYaEkEs3L90fFG7xCGPPej8N24CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIYBa6wbIstV8aPg0kd7kBIu2N1fFq0xhpsAGh/imlp2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/flintweller
+
+==================================================================
