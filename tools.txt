@@ -20,6 +20,7 @@ source .shellrc
 # Paste into terminal
 export Name="flint-configuration-master" && \
 export InstallDir="${HOME}" && \
+sudo apt install unzip && \
 cd ${HOME}/Downloads && \
 wget https://gitlab.com/fweller/flint-configuration/-/archive/master/flint-configuration-master.zip && \
 unzip ${Name}.zip && \
