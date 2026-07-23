@@ -1,16 +1,12 @@
-flintweller
-Flint Weller
-Human
-Earth (usually)
 ==================================================================
 https://keybase.io/flintweller
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://flintweller.com
+  * I am an admin of https://www.flintweller.com
   * I am flintweller (https://keybase.io/flintweller) on keybase.
-  * I have a public key ASCLjlICA68I3UBeevsQNXuTnAbc7JNZf6aCOjDTQdOaOAo
+  * I have a public key with fingerprint EBA5 1D71 48E9 4328 6618  58B0 B726 F98C 1AF9 1AC9
 
 To do so, I am signing this object:
 
@@ -18,39 +14,69 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "01202dccfda151eba7394859a1edf1b9c6579bb9814c3f33cd0887f0166216e575a90a",
+      "fingerprint": "eba51d7148e94328661858b0b726f98c1af91ac9",
       "host": "keybase.io",
-      "kid": "01208b8e520203af08dd405e7afb10357b939c06dcec93597fa6823a30d341d39a380a",
+      "key_id": "b726f98c1af91ac9",
+      "kid": "0101c92447de76986fe63d9acf8334b2a01679dba835d2cae4ceddfe4a5d596d26eb0a",
       "uid": "b7385854617381a1b2e8e9d652f19c19",
       "username": "flintweller"
     },
     "merkle_root": {
-      "ctime": 1617561568,
-      "hash": "4d380dc3f66a0d014c637b48a63df533e2cbb8e9004ccc3ca919e59edc61a77d6c7eba74c3e2aaa8929d8eb077523fe2887d8676f36c486110d21b20bbefa700",
-      "hash_meta": "5f586fc36342ca57c7abb31ce8579ddbc814579103d9fa78ea8e80599a965c36",
-      "seqno": 19545336
+      "ctime": 1784847862,
+      "hash_meta": "39df5ae9b7b283f9a3ebd1dc4cc84744090431975aeeda2505c29b5c62c9372c",
+      "seqno": 27695354
+    },
+    "revoke": {
+      "sig_ids": [
+        "8309061b4b2e746f589d3394ff07ff49d75e84d6eecb08cfccbb3cd451b2bfa00f"
+      ]
     },
     "service": {
-      "entropy": "zBRQ/mp+2A9gj5mxpT7BeH0E",
-      "hostname": "flintweller.com",
-      "protocol": "http:"
+      "hostname": "www.flintweller.com",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "5.6.1"
-  },
-  "ctime": 1617561652,
-  "expire_in": 504576000,
-  "prev": "ded16ac81a715d3b1fbc5fa7171eb2800c564b3ea6b7da1564d9ac7dd1d9b37b",
-  "seqno": 22,
+  "ctime": 1784847870,
+  "expire_in": 157680000,
+  "prev": "2ab9b3282b778fa94aa460180f93aea9438bb23ca705e7051ae38eb6be6259fc",
+  "seqno": 44,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi45SAgOvCN1AXnr7EDV7k5wG3OyTWX+mgjow00HTmjgKp3BheWxvYWTESpcCFsQg3tFqyBpxXTsfvF+nFx6ygAxWSz6mt9oVZNmsfdHZs3vEIP7Qslz97fSbC+H+GFEeqAWprqk9D/aHjHkAiYcNKuniAgHCo3NpZ8RA2a6Unhb684gJ9wvrO5KNmnfTC+foSTHCER1g/0sOrV2qGycPWl2zRzMEPqFYaEkEs3L90fFG7xCGPPej8N24CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIYBa6wbIstV8aPg0kd7kBIu2N1fFq0xhpsAGh/imlp2o3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+
+owFtk3tsFFUUxvtSoSJUhCJIEW5JEdmUuTN3Zu5dLM9KgEQMoYYK0uW+pp3tPtrZ
+bStuN7RalQVCiKlWQEERIiVIVSCWFoTyUgR5CMvDKIjyCKgUUN4IZhtIiPGvk3vy
+nfN9+d2cBY+lJqUnf5VzY16fG312Je8+x5K8bEnPCGBBMRO4I6BUdhTpEzIU9pTa
+AriBAlVFFZxbgkIdSkZNjSCsEwqlsCAj3NBNwhjBEHHN0jQuFIxNS4GGoUJD6qZO
+iUKBC1h2oFg6ZY4dCAM3kIzqUJgQYUmQpmLDgFjHTGGmalgEc0gtAiknwAVKgqHE
+RKmcyWhI5tpB4Eo8PB3x/kd/P7cCOVERMoU0DYINSxqaIJRbWNMQU6kCDZMIRrGm
+C5VTibgUwpKI6kInhlANyTpyV9zz0bCOdWRAU8OQQqZKLIkwdNWChMOEb0VIOgHq
+l8ANLJ8dCFdJn086IOoCfumU+qTHCQbDCb48bCdU0MQIIxMbqguU0FCJxy/DFLiB
+RoSlU0mYyVSsWYRqkgkoOOIcIxMhhShIg8TUqZSCqrqic5UwnRsqJ5qpcuACIVke
+CAK3ahpE13QUdQFHVgZLZcI9ZBd7bBEC7mlgy+tYU4hiQIaYKk1kWDomQtMIsizF
+tCxEhKlLjIQhJWcK5hbnjGlcIB0ylVlUUSwwPZrwcypt3rE+8Vv3KFRVVeU+QCKX
+B/3ABcqcYDjIgz7gBiXhcFnInSAUnlnWMSGZ594uD7MDwg4UAxeolE7IDgaAG0Zd
+/4VnKi4gXy2zHemxEwrdNLCiKErCR1YCN1ApI0xTscpME1uUIEqRoUCsWESjkhKk
+YcZUjVNT0aWp6JBKDUtmMGmoOrEeoImQC4RpMXAnEAZouMKRIJoeS9HSkpLTk7Iy
+B6T9viKrfNy5Mc9YTxZ+fv/MHkpJ3FhSeueM+504zUiqHxDzPUwnr8p9/NbO7W/t
+3DYELIwNKvjp4MjawXX7Zvx8PuRr2dpq5y84njn3n/dT4kv2HYptnfNS9sjrhSB2
+9Pvly535BY8uHHO3OXPsWq189eE3uvb+1V3RrffUgdnvrRKF7Y206NDZS0WdPost
+7WJMNtTW1/Ib15sf9Dp6LSP/Bf0Kuj6l/HCj2tZ/z+nn+i66cLjZe3kKufl1yqcH
+Z9x6Z23kjnvdK5H4JTG66MjmF3/c+2xyw1Nlbc83l9UNO7A0PmKct3DU7YHr+p3u
+mbV65Nn6lpNXi243zpu/NZ6eu7f7rDPdawqDAC/ZebxL8m8XL4wfuB2PTinUh3du
+Su0SHNYw6c/atj+a4gu0a6nDR1WSj6vOjD21vwfKPLZ74922l/fnbGv4oaG9ekRg
+fb+osz+nde2aQNqp2d8UvL1ow1S+Y2XSlpyJ/vmbb38xOja4Jat66ORJ3/Z45Nw6
+p6Y9dbG3/SSoHZDn6tlQeWzFrEG+J4Z0kvtmXxzcfMfrj9axOFEXn2xTOokD2Wti
+R4536z8kO/nKiXnLJojpRYMyzuztmjfhw8bZ3j67WrxXo72u12z4aG7kZk1t39On
+9lyeVOItHhoNjGnaXBcp/Pvypl/WfLIxr2533sLs6fV/LX43h7fHq5s3PX3wQvXy
+iTBt1oETO6rH+88vm1YOyrs22QXN34H6rBXhojcnbOt2ZOXVL/PHt0b+BQ==
+=MFYD
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -58,3 +84,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/flintweller
 
 ==================================================================
+
